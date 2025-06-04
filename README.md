@@ -19,6 +19,9 @@ L'application sera accessible à l'adresse : http://localhost:5173.
 
 Formulaire de connexion
 
+"email": "john@mail.com"
+"password": "changeme"
+
 Stockage du token et informations utilisateur (y compris rôle)
 
 Redirection après connexion
